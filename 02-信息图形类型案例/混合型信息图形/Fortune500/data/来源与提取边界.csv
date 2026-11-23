@@ -1,0 +1,16 @@
+﻿字段,内容
+0,图名,POWER CENTERS OF THE FORTUNE 500
+1,副标题,"THE TOP 15 METROPOLITAN AREAS IN THE FORTUNE 500, BY CUMULATIVE REVENUE"
+2,刊物,FORTUNE
+3,刊期,JUNE/JULY 2020
+4,信息图作者,NICOLAS RAPP
+5,正文署名,BRIAN O’KEEFE
+6,原始输入,用户上传的信息图 JPG
+7,营收口径,都市圈内 Fortune 500 企业累计营收
+8,标准化单位,十亿美元（USD billion）
+9,地图黑点解释,每一个点代表至少有一家 Fortune 500 企业的都市圈
+10,无法精确提取,全部地图黑点的数量、名称、经纬度、各地企业数量
+11,年份说明,刊期为2020年；正文明确提及前十都市圈2019年销售额，不据此推定每个气泡的财年
+12,精度说明,1.775 trillion 换算为1775 billion；原图与正文的近似表述分别保留
+13,排序说明,15个都市圈按原图营收数值由高到低排序
+14,复核提示,低分辨率图片手动辨读，个别数值建议对照原版高清图复核
